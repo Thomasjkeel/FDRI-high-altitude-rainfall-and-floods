@@ -6,9 +6,6 @@ Examples comparing the proportion of rain falling at given altitudes during/befo
 
 Compared with three high altitude sites: [Abermule](https://nrfa.ceh.ac.uk/data/station/info/54014), [Dolwen](https://nrfa.ceh.ac.uk/data/station/info/54080) and [Plynlimon Flume](https://nrfa.ceh.ac.uk/data/station/info/54022).
 
-**Headline finding:**
-X% of the rain is above a height of X
-
 *Bewdley catchment 5-flood average*
 | Height (m) |	Area of catchment above that height (%)	| Rainfall (%) | diff |
 |------|-------|------|-------|
@@ -28,13 +25,12 @@ X% of the rain is above a height of X
 | 650.0 | 0.09 | 0.17 |	-0.080 |
 | 700.0 | 0.05 | 0.09 |	-0.038 |
 
+![bewdley_20200115_flood](River%20Severn/Figures/bewdley_2020_01_15_10d_prop_rain.png "Example flood event")
+
 ## Tweed catchment
 [Norham](https://nrfa.ceh.ac.uk/data/station/info/21009) is used as the main catchment
 
 Compared with two high altitude sites: [Fruid Water](https://nrfa.ceh.ac.uk/data/station/info/21001) and [Kingledores](https://nrfa.ceh.ac.uk/data/station/info/21014).
-
-**Headline finding:**
-X% of the rain is above a height of X
 
 *Norham catchment 5-flood average*
 | Height (m) |	Area of catchment above that height (%)	| Rainfall (%) | diff |
@@ -57,3 +53,4 @@ X% of the rain is above a height of X
 | 750.0 | 0.23 | 0.47 |	-0.24 |
 | 800.0 | 0.05 | 0.09 |	-0.04 |
 
+![norham_20221230_flood](River%20Tweed/Figures/norham_2022_12_30_10d_prop_rain.png "Example flood event")
