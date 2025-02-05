@@ -25,7 +25,10 @@ Compared with three high altitude sites: [Abermule](https://nrfa.ceh.ac.uk/data/
 | 650.0 | 0.09 | 0.17 |	-0.080 |
 | 700.0 | 0.05 | 0.09 |	-0.038 |
 
+### Map of example flood event
+More maps available under River Severn/Figures
 ![bewdley_20200115_flood](River%20Severn/Figures/bewdley_2020_01_15_10d_prop_rain.png "Example flood event")
+
 
 ## Tweed catchment
 [Norham](https://nrfa.ceh.ac.uk/data/station/info/21009) is used as the main catchment
@@ -53,4 +56,6 @@ Compared with two high altitude sites: [Fruid Water](https://nrfa.ceh.ac.uk/data
 | 750.0 | 0.23 | 0.47 |	-0.24 |
 | 800.0 | 0.05 | 0.09 |	-0.04 |
 
+### Map of example flood event
+More maps available under River Tweed/Figures
 ![norham_20221230_flood](River%20Tweed/Figures/norham_2022_12_30_10d_prop_rain.png "Example flood event")
