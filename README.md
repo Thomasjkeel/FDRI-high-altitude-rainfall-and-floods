@@ -6,7 +6,9 @@ Examples comparing the proportion of rain falling at given altitudes during/befo
 
 Compared with three high altitude sites: [Abermule](https://nrfa.ceh.ac.uk/data/station/info/54014), [Dolwen](https://nrfa.ceh.ac.uk/data/station/info/54080) and [Plynlimon Flume](https://nrfa.ceh.ac.uk/data/station/info/54022).
 
-*Bewdley catchment 5-flood average*
+Rainfall falling -10 to 0 days before event is considered
+
+**Table 1.** *Bewdley catchment 5-flood average (see notebook for exact dates)*
 | Height (m) |	Area of catchment above that height (%)	| Rainfall (%) | diff |
 |------|-------|------|-------|
 | 0.0 | 100.00 | 100.00 | 0.000 |
@@ -35,7 +37,9 @@ More maps available under `River Severn/Figures/`
 
 Compared with two high altitude sites: [Fruid Water](https://nrfa.ceh.ac.uk/data/station/info/21001) and [Kingledores](https://nrfa.ceh.ac.uk/data/station/info/21014).
 
-*Norham catchment 5-flood average*
+Rainfall falling -10 to 0 days before event is considered
+
+**Table 2.** *Norham catchment 5-flood average (see notebook for exact dates)*
 | Height (m) |	Area of catchment above that height (%)	| Rainfall (%) | diff |
 |------|-------|------|-------|
 | 0.0 | 100.00 | 100.00 | 0.00 |
