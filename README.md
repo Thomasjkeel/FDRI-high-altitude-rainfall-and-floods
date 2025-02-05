@@ -9,7 +9,7 @@ Compared with three high altitude sites: [Abermule](https://nrfa.ceh.ac.uk/data/
 Rainfall falling -10 to 0 days before event is considered
 
 **Table 1.** *Bewdley catchment 5-flood average (see notebook for exact dates)*
-| Height (m) |	Area of catchment above that height (%)	| Rainfall (%) | diff |
+| Height above sea level (m) |	Area of catchment above that height (%)	| Rainfall (%) | diff |
 |------|-------|------|-------|
 | 18.8 (Bewdley) | 100.00 | 100.00 | 0.00 |
 | 50.0 | 98.47 | 98.79 | -0.32 |
@@ -40,7 +40,7 @@ Compared with two high altitude sites: [Fruid Water](https://nrfa.ceh.ac.uk/data
 Rainfall falling -10 to 0 days before event is considered
 
 **Table 2.** *Norham catchment 5-flood average (see notebook for exact dates)*
-| Height (m) |	Area of catchment above that height (%)	| Rainfall (%) | diff |
+| Height above sea level (m) |	Area of catchment above that height (%)	| Rainfall (%) | diff |
 |------|-------|------|-------|
 | 0.0 | 100.00 | 100.00 | 0.00 |
 | 50.0 | 96.71 | 98.51 | -1.80 |
