@@ -2,7 +2,7 @@
 Examples comparing the proportion of rain falling at given altitudes during/before flood events in FDRI catchments (Severn and Tweed).
 
 ## Severn catchment
-[Bewdley](https://nrfa.ceh.ac.uk/data/station/info/54001) (18.8 m) is used as the main catchment
+[Bewdley](https://nrfa.ceh.ac.uk/data/station/info/54001) (gauge height: 18.8 m) is used as the main catchment
 
 Compared with three high altitude sites: [Abermule](https://nrfa.ceh.ac.uk/data/station/info/54014) (86.8 m), [Dolwen](https://nrfa.ceh.ac.uk/data/station/info/54080) (147.3 m) and [Plynlimon Flume](https://nrfa.ceh.ac.uk/data/station/info/54022) (321.3 m).
 
@@ -33,7 +33,7 @@ More maps available under `River Severn/Figures/`
 
 
 ## Tweed catchment
-[Norham](https://nrfa.ceh.ac.uk/data/station/info/21009) (46 m) is used as the main catchment
+[Norham](https://nrfa.ceh.ac.uk/data/station/info/21009) (gauge height: 46 m) is used as the main catchment
 
 Compared with two high altitude sites: [Fruid Water](https://nrfa.ceh.ac.uk/data/station/info/21001) (297.5 m) and [Kingledores](https://nrfa.ceh.ac.uk/data/station/info/21014) (214.1 m).
 
