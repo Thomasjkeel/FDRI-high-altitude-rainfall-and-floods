@@ -74,3 +74,8 @@ More maps available under `River Tweed/Figures/`
 
 ### Compare height and area profile
 <img src="River%20Tweed/Figures/norham_all_floods_lineplot_threshold.png" width="600">
+
+# Disclaimer
+The analysis here should be taken with a pinch of salt.  
+The resolution of both the rainfall data (from HadUK-Grid) and orography/height data is 1km by 1km. Each gauge is river-side i.e. often at the bottom of a valley.  
+*Meaning:* This makes it difficult to know the proportion of the rain falling above the height of the NRFA gauge. Instead, it is important to examine the profile of the rainfall data i.e. a disproportionate amount of rain falls at altitudes higher than the NRFA gauges.
