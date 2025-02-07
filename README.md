@@ -69,7 +69,7 @@ Rainfall falling -10 to 0 days before event is considered
 ### Map of example flood event
 Flood events occurred on: 2016-01-10, 2018-11-29, 2020-01-11, 2021-02-20, 2022-12-30.  
 More maps available under `River Tweed/Figures/`
-![norham_5floodmean](River%20Tweed/Figures/fiveflood_mean_norham_10d_prop_rain.png "Example flood event")
+<img src="River%20Tweed/Figures/fiveflood_mean_norham_10d_prop_rain.png" width="1000">
 
 ### Compare height and area profile
-<img src="River%20Tweed/Figures/norham_all_floods_lineplot_threshold.png" width="300">
+<img src="River%20Tweed/Figures/norham_all_floods_lineplot_threshold.png" width="1000">
