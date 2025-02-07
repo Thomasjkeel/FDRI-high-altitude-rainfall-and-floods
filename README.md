@@ -35,7 +35,7 @@ More maps available under `River Severn/Figures/`
 <img src="River%20Severn/Figures/fiveflood_mean_bewdley_10d_prop_rain.png" width="800">
 
 ### Compare height and area profile
-<img src="River%20Severn/Figures/bewdley_all_floods_lineplot_threshold.png" width="800">
+<img src="River%20Severn/Figures/bewdley_all_floods_lineplot_threshold.png" width="600">
 
 
 ## Tweed catchment
@@ -73,4 +73,4 @@ More maps available under `River Tweed/Figures/`
 <img src="River%20Tweed/Figures/fiveflood_mean_norham_10d_prop_rain.png" width="800">
 
 ### Compare height and area profile
-<img src="River%20Tweed/Figures/norham_all_floods_lineplot_threshold.png" width="800">
+<img src="River%20Tweed/Figures/norham_all_floods_lineplot_threshold.png" width="600">
