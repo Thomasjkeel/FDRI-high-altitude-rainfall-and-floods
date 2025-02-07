@@ -30,8 +30,9 @@ Rainfall falling -10 to 0 days before event is considered
 | 700 | 0.05 | 0.09 |	-0.04 |
 
 ### Map of example flood event
+Flood events occurred on: 2008-03-17, 2008-11-11, 2012-04-30, 2013-02-15, 2020-01-15.
 More maps available under `River Severn/Figures/`
-![bewdley_20200115_flood](River%20Severn/Figures/bewdley_2020_01_15_10d_prop_rain.png "Example flood event")
+![bewdley_5floodmean](River%20Severn/Figures/fiveflood_mean_bewdley_10d_prop_rain.png "Example flood event")
 
 
 ## Tweed catchment
@@ -64,5 +65,6 @@ Rainfall falling -10 to 0 days before event is considered
 | 800 | 0.05 | 0.09 | -0.04 |
 
 ### Map of example flood event
+Flood events occurred on: 2016-01-10, 2018-11-29, 2020-01-11, 2021-02-20, 2022-12-30.
 More maps available under `River Tweed/Figures/`
-![norham_20221230_flood](River%20Tweed/Figures/norham_2022_12_30_10d_prop_rain.png "Example flood event")
+![norham_5floodmean](River%20Tweed/Figures/fiveflood_mean_norham_10d_prop_rain.png "Example flood event")
