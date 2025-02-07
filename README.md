@@ -72,4 +72,4 @@ More maps available under `River Tweed/Figures/`
 ![norham_5floodmean](River%20Tweed/Figures/fiveflood_mean_norham_10d_prop_rain.png "Example flood event")
 
 ### Compare height and area profile
-![norham_5floodmean_line](River%20Tweed/Figures/norham_all_floods_lineplot_threshold.png "Norham flood lines")
+![norham_5floodmean_line](River%20Tweed/Figures/norham_all_floods_lineplot_threshold.png =100x30)
