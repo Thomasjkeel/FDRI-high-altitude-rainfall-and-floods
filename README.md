@@ -1,4 +1,4 @@
-# NRFA-rain-gauge-heights-vs-floods
+# FDRI-catchment-contribution-to-floods
 Examples comparing the proportion of rain falling at given altitudes during/before flood events in FDRI catchments (Severn and Tweed).
 
 ## Severn catchment
